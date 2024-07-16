@@ -1,10 +1,10 @@
 
 ![MasterHead](https://mattermost.com/wp-content/uploads/2022/04/01_Create-React-App_Typescript@2x-2048x1071.webp)
-
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=furkanucgull&label=Profile%20views&color=0e75b6&style=flat" alt="furkanucgull" /> </p>
 <h1 align="center">Hi 👋, I'm Furkan Ucgul</h1>
 <h3 align="center">A passionate frontend developer</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=furkanucgull&label=Profile%20views&color=0e75b6&style=flat" alt="furkanucgull" /> </p>
+
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=furkanucgull" alt="furkanucgull" /></a> </p>
 
