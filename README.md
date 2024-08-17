@@ -8,9 +8,8 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=furkanucgull" alt="furkanucgull" /></a> </p>
 
-- 🔭 I’m currently working on **React .Net Core**
+- 🔭 I’m currently working on **React & .Net Core**
 
-- 💬 Ask me about **Front-End Development**
 
 - 📫 How to reach me **furkanucgull@gmail.com**
 
