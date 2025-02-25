@@ -27,24 +27,27 @@
 <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=furkanucgull&show_icons=true&theme=radical&hide_border=true" alt="furkanucgull" /></p>
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=furkanucgull&layout=compact&theme=radical&hide_border=true" alt="furkanucgull" /></p>
 
-## Projects
+## Some of Projects of Mine
 
-### AI Help Bot App
-**Repo:** [ai-help-bot-app](https://github.com/furkanucgull/ai-help-bot-app)  
-**Description:**  
-This project is an AI-powered chatbot application designed to answer user questions and provide assistance. Leveraging advanced AI technologies like OpenAI's GPT model, it generates intelligent and instant responses to user queries in natural language. The project focuses on modern web technologies and AI integration to deliver a user-friendly experience.
+# AI Help Bot App
 
-**Technologies Used:**
+This is an AI-powered chatbot application designed to answer user questions and provide assistance. Leveraging advanced AI technologies like OpenAI's GPT model, it generates intelligent and instant responses to user queries in natural language. The project focuses on modern web technologies and AI integration to deliver a user-friendly experience.
+
+## Technologies Used
+
 - **Next.js**: Used for server-side rendering and static site generation, ensuring fast load times and SEO optimization.
 - **TypeScript**: Added static type checking to improve code quality and reduce runtime errors.
 - **Tailwind CSS**: Enabled rapid and responsive UI development with utility-first CSS.
 - **GraphQL**: Provided a flexible and efficient API for querying data.
 - **StepZen**: Simplified the creation and management of the GraphQL API, enabling seamless integration with backend services.
+- **Clerk Authentication**: Implemented authentication and user management with secure and scalable solutions.
 - **Vercel**: Used for fast and reliable deployment of the Next.js application.
 
-**Key Features:**
+## Key Features
+
 - Natural Language Processing (NLP) to understand and respond to user queries.
 - Modern and user-friendly interface.
+- Secure user authentication using Clerk.
 - Dynamic and intelligent responses powered by AI integration.
 - Scalable and extensible architecture.
 
