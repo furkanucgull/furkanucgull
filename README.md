@@ -27,7 +27,7 @@
 <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=furkanucgull&show_icons=true&theme=radical&hide_border=true" alt="furkanucgull" /></p>
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=furkanucgull&layout=compact&theme=radical&hide_border=true" alt="furkanucgull" /></p>
 
-## Some of Projects of Mine
+  <h1 align="center">  Some of my Projects </h1> 
 
 # AI Help Bot App
 
