@@ -29,7 +29,7 @@
 
   <h1 align="center">  Some of my Projects </h1> 
 
-# AI Help Bot App
+# [AI Help Bot App](https://ai-help-bot-app.vercel.app/)
 
 This is an AI-powered chatbot application designed to answer user questions and provide assistance. Leveraging advanced AI technologies like OpenAI's GPT model, it generates intelligent and instant responses to user queries in natural language. The project focuses on modern web technologies and AI integration to deliver a user-friendly experience.
 
